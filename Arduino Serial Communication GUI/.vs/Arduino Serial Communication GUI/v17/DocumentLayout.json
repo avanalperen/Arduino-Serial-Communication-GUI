@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\RIGELSAN\\Desktop Application GUI\\Learning Projects\\Arduino Serial Communication GUI\\Arduino Serial Communication GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53CB2763-8FD0-4AD8-89E3-D503750AA2F0}|Arduino Serial Communication GUI.csproj|d:\\rigelsan\\desktop application gui\\learning projects\\arduino serial communication gui\\arduino serial communication gui\\arduinoserialcomgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53CB2763-8FD0-4AD8-89E3-D503750AA2F0}|Arduino Serial Communication GUI.csproj|solutionrelative:arduinoserialcomgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53CB2763-8FD0-4AD8-89E3-D503750AA2F0}|Arduino Serial Communication GUI.csproj|D:\\RIGELSAN\\Desktop Application GUI\\Learning Projects\\Arduino Serial Communication GUI\\Arduino Serial Communication GUI\\arduinoserialcomgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53CB2763-8FD0-4AD8-89E3-D503750AA2F0}|Arduino Serial Communication GUI.csproj|solutionrelative:arduinoserialcomgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArduinoSerialComGUI.cs [Design]",
+              "DocumentMoniker": "D:\\RIGELSAN\\Desktop Application GUI\\Learning Projects\\Arduino Serial Communication GUI\\Arduino Serial Communication GUI\\ArduinoSerialComGUI.cs",
+              "RelativeDocumentMoniker": "ArduinoSerialComGUI.cs",
+              "ToolTip": "D:\\RIGELSAN\\Desktop Application GUI\\Learning Projects\\Arduino Serial Communication GUI\\Arduino Serial Communication GUI\\ArduinoSerialComGUI.cs [Design]",
+              "RelativeToolTip": "ArduinoSerialComGUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:06:32.633Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArduinoSerialComGUI.cs",
+              "DocumentMoniker": "D:\\RIGELSAN\\Desktop Application GUI\\Learning Projects\\Arduino Serial Communication GUI\\Arduino Serial Communication GUI\\ArduinoSerialComGUI.cs",
+              "RelativeDocumentMoniker": "ArduinoSerialComGUI.cs",
+              "ToolTip": "D:\\RIGELSAN\\Desktop Application GUI\\Learning Projects\\Arduino Serial Communication GUI\\Arduino Serial Communication GUI\\ArduinoSerialComGUI.cs",
+              "RelativeToolTip": "ArduinoSerialComGUI.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:07:19.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
