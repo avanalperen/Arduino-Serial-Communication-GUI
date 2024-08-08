@@ -4,6 +4,7 @@ namespace Arduino_Serial_Communication_GUI
 {
     public partial class ArduinoSerialComGUI : Form
     {
+        String dataOutput;
 
         // Create port value
         private SerialPort sp = new SerialPort();
@@ -55,7 +56,12 @@ namespace Arduino_Serial_Communication_GUI
 
         private void buttonSendData_Click(object sender, EventArgs e)
         {
+            if (sp.IsOpen)
+            {
+                dataOutput = textBoxDataOutput.Text;
+                sp.WriteLine(dataOutput);
 
+            }
         }
     }
 }
